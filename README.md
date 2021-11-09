@@ -1,15 +1,15 @@
-# Blog-app API End-Points RoR
+# API End-Points RoR
 
-In this project, we transformed the original Blog app into an back-end server, providing it with some API endpoints to a to allow it to be used in different ways, rather than just through the site - for example, a mobile app or a CLI application.
+Back-end server, providing it with some API endpoints to a to allow it to be used in different ways, rather than just through the site - for example, a mobile app or a CLI application.
 
 ## Built With
 
 - Ruby v2.7.0
 - Ruby on Rails v5.2.6
 
-## Live Demo
+## Front End
 
-TBA
+[React Front](https://github.com/EroAuditore/react-front/pull/1)
 
 ## Getting Started
 
